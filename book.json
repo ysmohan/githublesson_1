@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "mcqx"
+        "mcqx",
+        "exercises"
     ],
     "pluginsConfig": {}
 }
